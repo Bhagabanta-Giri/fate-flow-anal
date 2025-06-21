@@ -62,3 +62,5 @@ hax_combat = {
     "Pain Converter": {
         "endurance": +10, "willpower": -10},
 }
+
+
