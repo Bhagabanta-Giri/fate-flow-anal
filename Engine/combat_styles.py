@@ -32,3 +32,33 @@ simple_combat = {
         "perception": 45, "willpower": 15, "calmness": 5, "rage": 50
     }
 }
+
+
+
+
+
+hax_combat = {
+    "Glass Cannon": {
+        "strength": +10, "hp": -10},
+
+    "Neural Overclock": {
+        "intelligence": +10, "endurance": -10},
+
+    "Zen Matrix": {
+        "calmness": +10, "rage": -10},
+    
+    "Adrenal Loop": {
+        "rage": +10, "calmness": -10},
+    
+    "Soul Firewall": {
+        "willpower": +10, "perception": -10},
+    
+    "Perceptive Glitch": {
+        "perception": +10, "intelligence": -10},
+    
+    "Nano Regen Bug": {
+        "hp": +10, "strength": -10},
+    
+    "Pain Converter": {
+        "endurance": +10, "willpower": -10},
+}
