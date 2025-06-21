@@ -100,7 +100,7 @@ def pick_your_poison():
             print("Invalid input. Choose a–h or x.")
 
 
-#Here goes Question 3, for name
+    #Here goes Question 3, for name
     name = input("Enter your name, mortal \n")
 
 
