@@ -31,4 +31,4 @@ def select_theme(label):
     theme_list = themes.get(label, False)
     if not theme_list:
         raise ValueError
-    return random.choice(theme_list)
+    return random.choice(theme_list)()

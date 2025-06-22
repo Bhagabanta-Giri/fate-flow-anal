@@ -17,4 +17,4 @@ theme, build, hax, Fatebound, name = pick_your_poison()
 player = create_player(name, build, hax, Fatebound)
 
 print(player)
-print(theme) #work needed here
+print(theme) 
