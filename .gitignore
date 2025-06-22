@@ -1,0 +1,15 @@
+# Bytecode cache
+__pycache__/
+*.py[cod]
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# Secrets 
+.env
